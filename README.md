@@ -21,6 +21,7 @@ Setup and Installation
 Clone the Repository:
 
 bash
+
 git clone https://github.com/yourusername/TrainTicketBookingSystem.git
 Navigate to the Project Directory:
 cd TrainTicketBookingSystem
